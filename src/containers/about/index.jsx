@@ -4,7 +4,7 @@ import { BsInfoCircleFill } from "react-icons/bs";
 import { DiApple, DiAndroid } from "react-icons/di";
 import { FaDev, FaDatabase } from "react-icons/fa";
 import { Animate } from "react-simple-animate";
-
+//Remove this line commiting without vpn 
 import { personalData } from "./utils";
 import "./styles.scss";
 
