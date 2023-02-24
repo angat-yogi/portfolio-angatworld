@@ -11,6 +11,7 @@ const Navbar = () => {
     setClick(!click);
   };
   return (
+    <div></div>
     <div>
       <nav className="navbar">
         <div className="navbar__container">
